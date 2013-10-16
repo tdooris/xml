@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX XML Editor (http://www.editix.com) at Tue Oct 15 20:00:26 EDT 2013 -->
+
+
+<book>
+	<title>The Omnivore's Dilemma</title>
+	<author>
+		<firstName>Michael</firstName>
+		<surName>Pollan</surName>
+	</author>
+	<published>
+		<location>
+			<city>New York</city>
+			<state>NY</state>
+		</location>
+		<publisher>Penguin Group</publisher>
+		<medium>Print</medium>
+		<year>2006</year>
+
+	</published>
+</book>
+
